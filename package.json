@@ -1,0 +1,26 @@
+{
+  "name": "covi19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "axios": "^0.20.0",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dushyantlamyan/covid19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dushyantlamyan/covid19/issues"
+  },
+  "homepage": "https://github.com/dushyantlamyan/covid19#readme"
+}
